@@ -13,3 +13,4 @@ The objective of the Recipe Finder project is to develop a user-friendly digital
 
 * HTML 
 * CSS 
+* Javascript
