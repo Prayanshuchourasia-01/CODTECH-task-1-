@@ -1,9 +1,9 @@
-#### Name : Prayanshu Chourasia 
-#### Company : CODTECH IT SOLUTIONS
-#### ID : CT4FWD5999
-#### Domain  : FRONTEND WEB DEVELOPMENT
-#### Duration August to September 2024 
-#### Mentor : SANTHOSH NEELA
+### Name : Prayanshu Chourasia 
+### Company : CODTECH IT SOLUTIONS
+### ID : CT4FWD5999
+### Domain  : FRONTEND WEB DEVELOPMENT
+### Duration August to September 2024 
+### Mentor : SANTHOSH NEELA
 
 
 
@@ -31,22 +31,9 @@ The Recipe Finder is a user-friendly application designed to help you discover d
 
 1. **Clone the repository**: 
    ```bash
-   git clone https://github.com/yourusername/recipe-finder.git
+   git clone https://github.com/Prayanshuchourasia-01/CODTECH-task-1-.git
    ```
-
-2. **Install Dependencies**: 
-   Navigate to the project directory and run: 
-   ```bash
-   npm install
-   ```
-
-3. **Run the Application**: 
-   Start the application with: 
-   ```bash
-   npm start
-   ```
-
-4. **Explore the API**: 
+2. **Explore the API**: 
    Ensure you have access to the necessary API key and follow the API documentation for integration details.
 
 ## Contribution
