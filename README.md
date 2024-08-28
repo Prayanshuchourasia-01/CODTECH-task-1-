@@ -1,3 +1,12 @@
+#### Name : Prayanshu Chourasia 
+#### Company : CODTECH IT SOLUTIONS
+#### ID : CT4FWD5999
+#### Domain  : FRONTEND WEB DEVELOPMENT
+#### Duration August to September 2024 
+#### Mentor : SANTHOSH NEELA
+
+
+
 # Recipe Finder
 
 ## Overview
