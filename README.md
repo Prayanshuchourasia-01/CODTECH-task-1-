@@ -8,7 +8,7 @@
 
 
 # Recipe Finder
-
+![ScreenShot of Output ](https://github.com/Prayanshuchourasia-01/CODTECH-task-1-/blob/5948bdd6e8eee68707685a9b5d18d55df278ba3b/Screenshot%202024-08-29%20200414.png)
 ## Overview
 
 The Recipe Finder is a user-friendly application designed to help you discover delicious recipes based on the ingredients you have on hand. By leveraging a powerful API, this project connects users to a vast database of recipes, allowing them to easily find meal ideas that match their preferences and dietary restrictions.
